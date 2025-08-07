@@ -36,6 +36,8 @@ A secure Android messenger app that establishes direct device-to-device connecti
 - Connection timeout handling
 - Message delivery tracking
 
+- DOWNLOAD APK FROM HERE: https://github.com/sitrsh12/p2p_messagger/raw/refs/heads/main/p2p-messenger.apk
+
 ## Getting Started
 
 ### Prerequisites
@@ -55,3 +57,5 @@ A secure Android messenger app that establishes direct device-to-device connecti
 9. On Device A, tap "Copy Connection Info" Share the code with Device B (message, email, etc.)
 10. Start Messaging
 11. Type messages in the input field - Press send icon or Enter key - Messages appear in real-time - View message timestamps and sender info
+
+
